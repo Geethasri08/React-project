@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rGsfffdg1eIYG8H6CnVgg3qPZ19kpR5iG3B6QkDanB19kLXdIjrRmeXJpAkqk9hrNW4&usqp=CAU.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .app-bar {
+    background: #063970; 
+    height: 48px;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+  
+  .tabs {
+    margin-left: 16px;
+  }
+  
+  .tab-label {
+    font-weight: bold;
+  }
+  
+  .tab-indicator {
+    background-color: #ff4081; 
+  }
+  
+  .drawer {
+    width: 240px;
+  }
+  
+  .drawer-list {
+    padding: 16px;
+  }
+  
+  .drawer-icon {
+    color: #0b7adc; 
+  }
+  
+  .footer {
+    padding: 20px;
+    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white; 
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .contact-info {
+    font-size: 16px;
+  }
+  
+  .follow-us {
+    font-size: 16px;
+  }
+  
+  .quick-links {
+    font-size: 16px;
+  }
+  
+  .social-icon {
+    color: #0b7adc;
+  }
